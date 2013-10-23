@@ -1,0 +1,147 @@
+
+
+ .vmiddle {
+	font-size: 2.2em;
+	line-height:150%;
+	width:1.6em;
+	height:1.6em;
+	}
+.btntxt {
+	font-size: 1.2em;
+	font-weight:bold;
+	vertical-align:middle;
+	line-height:200%;
+	}
+
+.maincontent{
+	height:400px;
+	width:600px;
+	border:3px solid orange;
+	vertical-align:middle;
+	text-align:center;
+	display:table-cell;
+}
+.bigbutton{
+width:150%;
+height:50px;
+padding:1%;
+margin:.3%;
+display:block;
+
+}
+
+.boxes {
+text-align:center;
+max-width:500px;
+display:inline-block; 
+}
+.checkbox{
+display:none;
+}
+
+
+.overbox{
+font-weight:bold;
+cursor:pointer;
+cursor:hand;
+}
+
+.allbox{
+font-weight:bold;
+cursor:pointer;
+cursor:hand;
+}
+.box{
+
+width:40%;
+height:35px;
+padding:1%;
+margin:.3%;
+vertical-align:middle;
+}
+
+.maintable{
+width:100%;
+text-align:center;
+height:100%;
+}
+
+
+.button {
+text-align:middle;
+vertical-align: middle;
+font-weight:bold;
+width:3.3em;
+height:3.3em;
+}
+
+.error{
+font-weight:bold;
+
+
+}
+
+.hiddendiv{
+height:80%;
+width:100%;
+}
+.textarea{
+
+width:95%;
+height:120px;
+font-size:1.2em;
+}
+
+#calcformstyle{
+				
+				max-width:315px;
+				min-height: 400px;
+				padding: 5px 12px 12px;
+				margin: 0 auto 0px; 
+				padding-left:5px;
+				background-color: #fff;
+				border: 1px solid #e5e5e5;
+				-webkit-border-radius: 5px;
+				   -moz-border-radius: 5px;
+						border-radius: 5px;
+				-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+				   -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+						box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+
+.bigtabs{
+
+} 
+.bigtabmain{
+font-size:1.5em;
+width:100%;
+font-weight:bold;
+}
+.tabpic{
+padding:5px;
+size:5em;
+}
+.select{
+width:98%;
+height:15%;
+font-size:1.6em;
+}
+.buttoncontainer{
+float:left;
+clear:both;
+top:0;
+height:75%;
+left:10%;
+text-align:center;
+width:80%;
+display:inline-block;
+position:fixed;
+vertical-align:middle;
+}
+.ibutton {
+font-weight:bold;
+font-size:6em;
+display:inline-block;
+width:100%;
+height:45%;
+}
